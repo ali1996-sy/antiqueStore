@@ -1,0 +1,17 @@
+[
+	{
+"for_sale":"Proposé à la vente",
+"saled":"Vendu",
+"cancelled":"Annulé",
+"reserved":"Réservé",
+"deposited":"Déposé en magasin",
+"purchased":"Acheté",
+"request_canceled":"Demande annulée",
+"delivered":"Livré",
+"removed":"Retiré",
+"collected":"Emporté",
+"restored":"En restauration",
+"requested":"Demandé",
+"in_option":"En attente d'achat"
+	}
+]

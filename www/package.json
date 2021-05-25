@@ -1,0 +1,36 @@
+{
+  "name": "film-frontend",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "webpack --mode development",
+    "build": "webpack --mode production",
+    "start": "webpack-dev-server --mode development"
+  },
+  "dependencies": {
+    "a-simple-carousel": "^0.4.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-tagsinput": "^0.7.1",
+    "customizable-analog-clock": "^1.0.1",
+    "fs": "0.0.1-security",
+    "jquery": "^3.5.1",
+    "jwt-decode": "^3.1.2",
+    "popper.js": "^1.16.1",
+    "select2-bootstrap-css": "^1.4.6"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.11.4",
+    "@babel/preset-env": "^7.11.0",
+    "babel-loader": "^8.1.0",
+    "css-loader": "^4.2.1",
+    "file-loader": "^6.0.0",
+    "html-webpack-plugin": "^4.3.0",
+    "style-loader": "^1.2.1",
+    "webpack": "^4.44.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  },
+  "author": {
+    "name": "e-Baron"
+  }
+}
